@@ -17,6 +17,7 @@ export default class Game {
     console.log('I am the next players');
     console.log('Implementing new function for logs');
     console.log('Implemented by tom');
+    console.log('Empty logging');
   }
 
   hasWinner () {
