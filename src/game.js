@@ -16,6 +16,7 @@ export default class Game {
     this.sym = this.sym === 'X' ? 'O' : 'X'
     console.log('I am the next p');
     console.log('Implementing new function for logs');
+    console.log('Implemented by tom');
   }
 
   hasWinner () {
