@@ -15,7 +15,7 @@ export default class Game {
     this.player = this.player === this.p1 ? this.p2 : this.p1
     this.sym = this.sym === 'X' ? 'O' : 'X'
     console.log('I am the next player');
-    console.log('Added the hot fix branches hello');
+    console.log('Added the hot fix branches hello1');
   }
 
   hasWinner () {
